@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main: perform an output function by using fprintf
  *
  * return: 1 Always (Success)
  */
